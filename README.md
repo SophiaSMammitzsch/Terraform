@@ -1,2 +1,3 @@
-# Terraform
-Begin experience with Terraform
+Terraform start experience by Sophia Mammitzsch
+
+v.0.1 
